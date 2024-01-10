@@ -8,6 +8,7 @@ Note: Ledger is a very powerfull tool which will do **exactly** what you tell it
 
 ## Logs:
 This is a log page. It shows the logs you have looked up. Most should be pretty self explanatory.
+
 ![](pics/ledgerlog.png)
 
 To read through the pages you can click the arrows at the bottom or use `/ledger page <page number>` to immediately skip to that page.
