@@ -4,4 +4,4 @@ This is a documentation and guide for the moderators of Villager Rights which ex
 
 Mods:
 
-- [Ledger](\ledger.md)
+- [Ledger](*\ledger.md)
