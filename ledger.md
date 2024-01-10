@@ -1,3 +1,3 @@
 
 # Ledger
-Most inline <abbr title="Hypertext Markup Language">HTML</abbr> tags are supported.
+Most inline <button>Hello</button> tags are supported.
