@@ -19,7 +19,7 @@ Parameters can be used to filter out what you want to search or roll back, they 
 - `range` is the area you want to effect. Its selected as a square. 
 - `source` is the source of the action. Which can be a player, entity or effect from the world.
 
-  *Important info about `source`: If the source has a @ in front of it, that means it was done by a entity or world event.*
+  ***Important info about `source`: If the source has a @ in front of it, that means it was done by a entity or world event.***
 
   *Example: `@creeper` means it was done by a creeper. `@gravity` means the block broke because the block it was hanging onto broke. (Signs, lantern, ect.) `@fluid` means the block was changed by either water or lave.*
   
