@@ -1,3 +1,3 @@
 
 # Ledger
-Most inline <button>Hello</button> tags are supported.
+Most inline <a href="google.com">Hello<a> tags are supported.
