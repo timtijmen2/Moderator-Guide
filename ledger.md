@@ -36,6 +36,10 @@ _Note: You can use mutiple of the same parameter in the same command. Example: `
 - Search
 - Rollback and Restore
 - Preview
+- Purge
+- Player
+- Status
+- Tp
 
 _Note: all `/ledger` commands can also be shortened to `/lg`._
 
@@ -89,3 +93,25 @@ You can also end the preview with `/ledger preview cancel` without appliying the
 
 ---
 
+## Purge
+
+The purge command can delete logs. These logs are perminatly deleted and cant be rolled back or restored.
+
+`/ledger purge <parameters>`
+
+## Player
+The player command shows you the first time and the last time that someone joined.
+
+Its usefull to find out if a player is new or old so you can judge accordingly.
+
+`/ledger player <playername>`
+
+## Status
+The status command gives some info about the current version of ledger.
+
+`/ledger status`
+
+## Tp
+Ledgers tp command can be used to teleport between dimensions but mostly just functions like the normal tp command.
+
+`/ledger <dimension> <x> <y> <z>`
