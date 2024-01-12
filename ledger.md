@@ -85,6 +85,7 @@ This gives you a preview of what the world will look like once you've applied th
 
 If you are happy with what you are changing back you run `/ledger preview apply`, which will apply the change you made.
 
-If its not good then you run `/ledger preview cancel` to end the preview without applying the change.
+You can also end the preview with `/ledger preview cancel` without appliying the change, if you are not happy with the result.
 
 ---
+
