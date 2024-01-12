@@ -46,3 +46,11 @@ Command options:
 ---
 
 ## Search
+The search function is pretty self explanatory.
+It lets you search for logs with sertain parameters.
+
+Commands:
+`/ledger search <parameter>` or `/ledger s <parameters>`
+
+---
+
