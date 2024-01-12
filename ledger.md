@@ -28,6 +28,8 @@ Parameters can be used to filter out what you want to search or roll back, they 
 - `object` is that thing that was effected, what items, what blocks or what entities you were looking for. Example `object:diamond` will look for logs with diamonds. 
 - `world` is the world that you search in. Overworld, nether or end. If you leave this out it will default to the world your in.
 
+_Note: You can use mutiple of the same parameter in the same command. Example: `object:diamond_ore object:deepslate_diamond_ore` will look for both diamond ore and deepslate diamond ore._
+
 ## Commands:
 - Inspect 
 
