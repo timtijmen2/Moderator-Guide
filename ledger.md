@@ -68,11 +68,10 @@ The `restore` command can undo any already rollbacked back interactions.
 
 Commands:
 
-Rollback: `/ledger rollback <parameters>` or `/ledger rb <parameters>`
+- Rollback: `/ledger rollback <parameters>` or `/ledger rb <parameters>`
+- Restore: `/ledger restore <parameters>`
 
-Restore: `/ledger restore <parameters>`
-
-**WARNING: These commands are very powerfull and dont have any warning system! It is adviced you use the `preview` command when running these commands.**  
+_**WARNING: These commands are very powerfull and dont have any warning system! It is adviced you use the `preview` command when running these commands.**_
 
 ## Preview
 
