@@ -74,4 +74,11 @@ Commands:
 _**WARNING: These commands are very powerfull and dont have any warning system! It is adviced you use the `preview` command when running these commands.**_
 
 ## Preview
+The Preview command lets you see what you are rolling back before you actually do. This preview will only be visible to you and shows you what the world will look like after you have run the rollback command.
+
+### Start preview:
+The preview command can be used to view both rollback and restore commands.
+
+To start a preview run `/ledger preview rollback <parameters>` or `/ledger preview rollback <parameters>` respectively.
+
 
