@@ -81,4 +81,10 @@ The preview command can be used to view both rollback and restore commands.
 
 To start a preview run `/ledger preview rollback <parameters>` or `/ledger preview rollback <parameters>` respectively.
 
+This gives you a preview of what the world will look like once you've applied the change. This is only visible for you.
 
+If you are happy with what you are changing back you run `/ledger preview apply`, which will apply the change you made.
+
+If its not good then you run `/ledger preview cancel` to end the preview without applying the change.
+
+---
