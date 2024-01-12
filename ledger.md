@@ -31,9 +31,13 @@ Parameters can be used to filter out what you want to search or roll back, they 
 _Note: You can use mutiple of the same parameter in the same command. Example: `object:diamond_ore object:deepslate_diamond_ore` will look for both `diamond_ore` and `deepslate_diamond_ore`._
 
 ## Commands:
+
 - Inspect 
+- Search
+- Rollback and Restore
+- Preview
 
-
+_Note: all `/ledger` commands can also be shortened to `/lg`._
 
 ---
 ## Inspect
@@ -52,5 +56,23 @@ It lets you search for logs with sertain parameters.
 Commands:
 `/ledger search <parameter>` or `/ledger s <parameters>`
 
+The `/ledger page` command can be used to quickly search through logs.
+
 ---
+## Rollback and Restore
+The rollback and restore commands are the most important and powerfull commands in this plugin.
+These commands can rollback almost any action and interaction in the world. 
+
+The `rollack` command can rollback any interaction that happened in the world.
+The `restore` command can undo any already rollbacked back interactions.
+
+Commands:
+
+Rollback: `/ledger rollback <parameters>` or `/ledger rb <parameters>`
+
+Restore: `/ledger restore <parameters>`
+
+**WARNING: These commands are very powerfull and dont have any warning system! It is adviced you use the `preview` command when running these commands.**  
+
+## Preview
 
