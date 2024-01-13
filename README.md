@@ -6,7 +6,9 @@ This is a documentation and guide for the moderators of Villager Rights which ex
 
 ---
 ## Ledger
-- [Ledger](/ledger.md)    System that makes logs of any action and interaction in the world and lets you roll them back.
+System that makes logs of any action and interaction in the world and lets you roll them back.
+
+- [Ledger Docs](/ledger.md)
 
 ---
 
